@@ -1,0 +1,15 @@
+name: Airstrike
+version: '${project.version}'
+main: me.rixv.airstrike.Airstrike
+api-version: 1.19
+authors: [ rixV ]
+commands:
+  airstrike:
+    aliases:
+      - a10
+      - A10
+      - warthog
+      - thunderbolt
+      - airsupport
+    usage: "/<command>"
+    description: Gives you a marker that you can use to summon the airstrike
